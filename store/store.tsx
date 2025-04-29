@@ -4,7 +4,7 @@ import { create } from "zustand";
 import { toast } from "sonner";
 import { persist } from "zustand/middleware";
 import { fetchPortfolioServer } from "@/app/api/actions/portfolio";
-//dev
+
 type Portfolio = {
   firstName: string;
   description: string;
