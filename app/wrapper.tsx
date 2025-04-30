@@ -14,7 +14,7 @@ export default function HomeLayout({
   return (
     <div className="flex flex-col min-h-screen">
       <header className="fixed top-0 left-0 right-0 bg-[#f7f2f2] z-50 px-4 py-4 ">
-        <div className="mx-[5rem] flex justify-between items-center">
+        <div className="mx-[3rem] flex justify-between items-center">
           <div>
             <h1 className="text-[40px] font-moranga text-orange-600">
               Anthony
